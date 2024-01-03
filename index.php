@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>refectory.uneswa.sz</title>
+    <title>Refectory Ordering System</title>
     <link rel="stylesheet" href="css/all.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -35,7 +35,7 @@
             <div id="grid">
                 <div id="rice and chicken"> <!--IDENTIFIER-->
                     <div class="firstClass">
-                        <img src="images/food-134.jpg" alt="food">
+                        <img src="assets/images/food-134.jpg" alt="food">
                         <p>Rice&Chicken</p>
                         <p>E25.00</p>
                         <div class="three-inline-buttons">
@@ -49,7 +49,7 @@
 
                 <div id="rice and chicken"> <!--IDENTIFIER-->
                     <div class="firstClass">
-                        <img src="images/food-134.jpg" alt="food">
+                        <img src="assets/images/food-134.jpg" alt="food">
                         <p>Rice&Chicken</p>
                         <p>E25.00</p>
                         <div class="three-inline-buttons">
@@ -63,7 +63,7 @@
 
                 <div id="rice and chicken"> <!--IDENTIFIER-->
                     <div class="firstClass">
-                        <img src="images/food-134.jpg" alt="food">
+                        <img src="assets/images/food-134.jpg" alt="food">
                         <p>Rice&Chicken</p>
                         <p>E25.00</p>
                         <div class="three-inline-buttons">
@@ -77,7 +77,7 @@
 
                 <div id="rice and chicken"> <!--IDENTIFIER-->
                     <div class="firstClass">
-                        <img src="images/food-134.jpg" alt="food">
+                        <img src="assets/images/food-134.jpg" alt="food">
                         <p>Rice&Chicken</p>
                         <p>E25.00</p>
                         <div class="three-inline-buttons">
@@ -91,7 +91,7 @@
 
                 <div id="rice and chicken"> <!--IDENTIFIER-->
                     <div class="firstClass">
-                        <img src="images/food-134.jpg" alt="food">
+                        <img src="assets/images/food-134.jpg" alt="food">
                         <p>Rice&Chicken</p>
                         <p>E25.00</p>
                         <div class="three-inline-buttons">
@@ -105,7 +105,7 @@
 
                 <div id="rice and chicken"> <!--IDENTIFIER-->
                     <div class="firstClass">
-                        <img src="images/food-134.jpg" alt="food">
+                        <img src="assets/images/food-134.jpg" alt="food">
                         <p>Rice&Chicken</p>
                         <p>E25.00</p>
                         <div class="three-inline-buttons">
@@ -119,7 +119,7 @@
 
                 <div id="rice and chicken"> <!--IDENTIFIER-->
                     <div class="firstClass">
-                        <img src="images/food-134.jpg" alt="food">
+                        <img src="assets/images/food-134.jpg" alt="food">
                         <p>Rice&Chicken</p>
                         <p>E25.00</p>
                         <div class="three-inline-buttons">
@@ -133,7 +133,7 @@
 
                 <div id="rice and chicken"> <!--IDENTIFIER-->
                     <div class="firstClass">
-                        <img src="images/food-134.jpg" alt="food">
+                        <img src="assets/images/food-134.jpg" alt="food">
                         <p>Rice&Chicken</p>
                         <p>E25.00</p>
                         <div class="three-inline-buttons">
@@ -141,7 +141,7 @@
                             <button>2</button>
                             <button>+</button>
                         </div>
-                        <buttonn class="add2cart-btn">Add to Cart</buttonn>
+                        <button class="add2cart-btn">Add to Cart</button>
                     </div>
                 </div>
             </div>

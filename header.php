@@ -1,5 +1,5 @@
 <header class="header"><!--fexible-->
-        <a class="logo" href="#"><span><img src="images/logo.png" alt=""></span></a>
+        <a class="logo" href="#"><span><img src="assets/images/logo.png" alt=""></span></a>
 
         <input type="checkbox" id="check"><!--input ID and label for MATCH-->
         <label class="icons" for="check">
