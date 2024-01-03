@@ -161,7 +161,7 @@ section{
 /*-------------------Hero Section--------------*/
  #banner{
     height: 100vh;
-    /*background: url(images/heropic.jpg) no-repeat;*/
+    background-image: url('../assets/images/hero-background.png');
     background-size: cover;
     background-position: center;
 }
@@ -171,7 +171,6 @@ section{
     height: calc(100vh - 3rem);
     display: grid;
     place-items: center;
-    background: transparent;
 }
 .hero-container{
     display: flex;
