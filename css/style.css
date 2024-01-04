@@ -172,6 +172,7 @@ section{
     display: grid;
     place-items: center;
 }
+
 .hero-container{
     display: flex;
     flex-direction: column;
