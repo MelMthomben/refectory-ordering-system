@@ -17,8 +17,8 @@
     <section id="banner">
         <div class="hero">
             <div class="container hero-container">
-                <h1>Welcome to the Refectory</h1>
-                <h3>Tastiest meals at the most affordable prices!</h3>
+                <h1>Easy ordering, easy collection, happy dining</h1>
+                <h3>A simplified ordering process for students and staff on the go</h3>
                 
                 <form class="textbox-search">
                     <input class="search-box" type="search" placeholder="What do you want to eat today?" required>
